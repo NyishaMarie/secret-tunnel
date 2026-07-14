@@ -24,4 +24,4 @@ export default function Tablet() {
       </form>
     </section>
   );
-}
+
